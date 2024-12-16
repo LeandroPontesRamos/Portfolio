@@ -9,4 +9,4 @@ I have experience as an intern in mobile and web development, using mainly the l
 - HTML, CSS, SEO, JavaScript.
 
 ## Contact
-You can reach me at [LinkedIn](https://br.linkedin.com/in/leandro-ramos-3429ab2a9) or [GitHub](github.com/LeandroPontesRamos).
+You can reach me at [LinkedIn](https://br.linkedin.com/in/leandro-ramos-3429ab2a9) or [GitHub](https://github.com/LeandroPontesRamos).
